@@ -1,8 +1,7 @@
-<h1 align="center">
-  <img src="https://git-io.by/bO" alt="Hacker GIF" width="50" height="50">
-  <br>
-  🔥 TERMINAL ETERNAL VOID V9.0 🔥
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BOSSENAFUL/Termux_-update_-tools/main/enaful.jpg" width="300" alt="BOSS ENAFUL">
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=red&size=30&center=true&vCenter=true&width=600&height=70&lines=WELCOME+BOSS+ENAFUL;SYSTEM+ETERNAL+VOID+V9.0;TERMINAL+OWNED+BY+BOSS+ENAFUL" alt="Typing SVG" />
